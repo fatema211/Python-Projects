@@ -1,0 +1,6 @@
+*.iml
+*.xml
+/logs
+/node_modules
+.idea
+.venv
